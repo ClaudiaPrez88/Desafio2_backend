@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1001",
+    "titulo": "Ojalá Que Llueva Café",
+    "artista": "Juan Luis Guerra",
+    "tono": "Mi"
+  },
+  {
+    "id": 1002,
+    "titulo": "Bachata en Fukuoka",
+    "artista": "Juan Luis Guerra",
+    "tono": "La"
+  },
+  {
+    "id": 1003,
+    "titulo": "La Bilirrubina",
+    "artista": "Juan Luis Guerra",
+    "tono": "Mi"
+  },
+  {
+    "id": 1004,
+    "titulo": "Frio Frio",
+    "artista": "Juan Luis Guerra",
+    "tono": "Sol"
+  }
+]
